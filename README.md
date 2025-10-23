@@ -237,3 +237,5 @@ Nếu bạn có câu hỏi hoặc cần hỗ trợ, vui lòng liên hệ:
 ---
 
 🔥 **django-whiteneuron** – Giải pháp tối ưu giúp bạn **nâng cấp Django Admin Site** một cách chuyên nghiệp, mạnh mẽ và hiện đại! 🚀
+
+Nghị fork dự án
